@@ -57,25 +57,21 @@ Output: Graphs and ml_results.xlsx.
 Part 5 – Benchmarking & Visualization
 
 Compares Brute Force vs Dynamic Programming in terms of:
-
 Execution time
-
 Scalability
+Generates bar charts & line plots for performance visualization.
+
+Output: Benchmarking plots + benchmark_results.xlsx.
 
 
 ✨ Key Learnings
 
 How brute force and DP differ in computational complexity.
-
 How ML can approximate subset sum problems.
-
 How to benchmark algorithms with real-world data.
-
 Data cleaning and preprocessing for financial analysis.
+
 👨‍💻 Author
 
 Maryam Ijaz
 
-Generates bar charts & line plots for performance visualization.
-
-Output: Benchmarking plots + benchmark_results.xlsx.
